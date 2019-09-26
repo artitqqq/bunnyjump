@@ -39,4 +39,5 @@ jump={
 
 [rendering]
 
+environment/default_clear_color=Color( 0.109804, 0.819608, 0.933333, 1 )
 environment/default_environment="res://default_env.tres"
